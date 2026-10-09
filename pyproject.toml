@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scholar-discovery-demo"
+version = "0.1.0"
+description = "Independent cross-source DOI discovery and read-only MCP demo"
+requires-python = ">=3.11"
+authors = [{ name = "Levko Burburas" }]
+license = { text = "MIT" }
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["scholar_discovery*"]

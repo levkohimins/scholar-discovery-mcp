@@ -1,0 +1,17 @@
+{
+  "source": "crossref",
+  "records": [
+    {
+      "source_id": "10.5555/demo-001",
+      "doi": "10.5555/DEMO-001",
+      "title": "Resilient API Integrations",
+      "year": 2025
+    },
+    {
+      "source_id": "10.5555/demo-002",
+      "doi": "10.5555/DEMO-002",
+      "title": "Entity Identity in Linked Data",
+      "year": 2024
+    }
+  ]
+}

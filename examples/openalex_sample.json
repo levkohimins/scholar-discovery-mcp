@@ -1,0 +1,23 @@
+{
+  "source": "openalex",
+  "records": [
+    {
+      "source_id": "https://openalex.org/Wdemo001",
+      "doi": "https://doi.org/10.5555/demo-001",
+      "title": "Resilient API Integrations (OpenAlex)",
+      "year": 2025
+    },
+    {
+      "source_id": "https://openalex.org/Wdemo003",
+      "doi": "https://doi.org/10.5555/demo-003",
+      "title": "Data Provenance for Search APIs",
+      "year": 2026
+    },
+    {
+      "source_id": "https://openalex.org/Wuncertain",
+      "doi": null,
+      "title": "Entity Identity in Linked Data",
+      "year": 2024
+    }
+  ]
+}
